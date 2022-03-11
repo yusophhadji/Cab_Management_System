@@ -1,0 +1,18 @@
+**Database Name: hotelms**
+
+**Developed by Ajit Jain, Visraman, Prem Chand Saini**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+Default Admin Access
+Username: admin
+Password: admin123
+
+Sample Driver Access
+Username: 202202-00001
+Password: gwilliams123
+
+Sample Client Access
+Username: cblake@sample.com
+Password: cblake123
